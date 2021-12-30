@@ -173,7 +173,7 @@ export default function PrimarySearchAppBar() {
             component="div"
             sx={{ display: { xs: 'none', sm: 'block' } }}
           >
-            Ik ga naar Nederland
+            Ik ga naar Nederland in 2022
           </Typography>
           <Search>
             <SearchIconWrapper>
